@@ -1,0 +1,5 @@
+line-length = 79
+
+[lint]
+# Ensure the linter also enforces this limit (Rule E501)
+extend-select = ["E501"]
